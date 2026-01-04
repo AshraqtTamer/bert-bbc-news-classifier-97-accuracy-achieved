@@ -1,4 +1,4 @@
-# README: Multi-Class News Classification with BERT
+# Multi-Class News Classification with BERT
 
 This project demonstrates the fine-tuning of a **BERT (Bidirectional Encoder Representations from Transformers)** model to classify BBC news articles into five distinct categories. The model achieves high accuracy by leveraging pre-trained transformer embeddings and adapting them to the specific nuances of BBC journalistic content.
 
