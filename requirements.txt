@@ -1,0 +1,9 @@
+
+numpy
+pandas
+pyarrow
+torch
+datasets
+transformers
+accelerate
+evaluate
