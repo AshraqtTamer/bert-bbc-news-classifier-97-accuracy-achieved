@@ -83,4 +83,3 @@ The model expects a CSV with at least two columns:
 * `text`: The raw news article content.
 * `labels`: The category of the news.
 
-Would you like me to help you generate a script to export this fine-tuned model for deployment?
